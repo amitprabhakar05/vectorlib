@@ -123,3 +123,6 @@ class vector(object):
 
 	def __ne__(self, other):
 		return not self.__eq__(other)
+		
+		# Looks Good - Div's implementation might not mean anything but 
+		# can be useful - Amit
